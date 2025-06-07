@@ -40,8 +40,23 @@ This project was successfully completed as part of the academic curriculum for t
 | CSV            | Attendance data storage                      |
 
 ---
+<h2>📸 Project Snapshots</h2>
 
-## 📂 Project Structure
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h4>👁️ Face Detection and Recognition (Live Feed)</h4>
+    <img src="image/output" alt="Face Detection Live Feed" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h4>📁 Attendance CSV Log Output</h4>
+    <img src="images/attendance_csv_log.jpg" alt="Attendance CSV Log" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+  </div>
+
+</div>
+
+<p><strong>Note:</strong> Upload your images to a folder named <code>images/</code> in your GitHub repository and make sure the file names match.</p>
 
 
 ## 🚀 Getting Started
