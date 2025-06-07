@@ -51,7 +51,7 @@ This project was successfully completed as part of the academic curriculum for t
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h4>📁 Attendance CSV Log Output</h4>
-    <img src="images/output1.png" alt="Attendance CSV Log" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+    <img src="image/output1.png" alt="Attendance CSV Log" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
   </div>
 
 </div>
