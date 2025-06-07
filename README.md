@@ -46,7 +46,7 @@ This project was successfully completed as part of the academic curriculum for t
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h4>👁️ Face Detection and Recognition (Live Feed)</h4>
-    <img src="image/output" alt="Face Detection Live Feed" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+    <img src="image/output.png" alt="Face Detection Live Feed" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
