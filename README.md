@@ -79,8 +79,7 @@ Ayesha Patil,2025-06-07,10:17:12
 
 ## 👨‍💻 Authors
 
-- **B. Kiran Shetty**  
-  [GitHub: https://github.com/kiranshetty23] <!-- Replace with your actual GitHub if different -->
+- **B. Kiran**  
 
 
 ## 📜 License
@@ -92,7 +91,7 @@ This project is intended strictly for **academic and educational purposes only**
 
 ## 🙌 Acknowledgements
 
-- **Faculty Guide:** [Faculty Name] <!-- Replace with actual guide name -->
+- **Faculty Guide:** Tejaswini Eshwar Achar
 - **Department:** Computer Science and Engineering  
 - **Institution:** VTU University, Belagavi
 
