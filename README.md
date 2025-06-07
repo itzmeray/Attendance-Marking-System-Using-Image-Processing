@@ -54,4 +54,32 @@ This project was successfully completed as part of the academic curriculum for t
 git clone https://github.com/<your-username>/attendance-image-processing.git
 cd attendance-image-processing
 
+### 📦 Step 2: Install Dependencies
+Make sure Python is installed, then run:
 pip install -r requirements.txt
+
+🧠 Step 3: Prepare Dataset & Train the Model
+Create a folder named dataset/.
+
+Inside it, add one subfolder for each student, named by their ID or name.
+
+Each subfolder should contain several images of that student's face.
+
+python train_model.py
+
+🎯 Step 4: Run Attendance Recognition
+To launch the live webcam and start marking attendance:
+
+bash
+Copy
+Edit
+python detect_and_mark.py
+
+🧪 Sample Output
+csv
+Copy
+Edit
+Name,Date,Time
+Kiran Shetty,2025-06-07,10:15:23
+Ayesha Patil,2025-06-07,10:17:12
+
