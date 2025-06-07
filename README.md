@@ -56,9 +56,6 @@ This project was successfully completed as part of the academic curriculum for t
 
 </div>
 
-<p><strong>Note:</strong> Upload your images to a folder named <code>images/</code> in your GitHub repository and make sure the file names match.</p>
-
-
 ## 🚀 Getting Started
 
 ###🔧 Step 1: Clone the Repository
